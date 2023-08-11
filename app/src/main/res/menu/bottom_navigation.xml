@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:iconTint="@color/white"
+        android:title="Home"/>
+    <item
+        android:id="@+id/nav_search"
+        android:icon="@drawable/ic_search"
+        android:iconTint="@color/white"
+        android:title="Search"/>
+    <item
+        android:id="@+id/nav_cs"
+        android:icon="@drawable/ic_tv"
+        android:iconTint="@color/white"
+        android:title="Coming Soon"/>
+
+    <item
+        android:id="@+id/nav_download"
+        android:icon="@drawable/ic_download"
+        android:iconTint="@color/white"
+        android:title="Downloads"/>
+
+    <item
+        android:id="@+id/nav_more"
+        android:icon="@drawable/ic_menu"
+        android:iconTint="@color/white"
+        android:title="More"/>
+
+</menu>
